@@ -1,0 +1,7 @@
+langchain
+faiss-cpu
+sentence-transformers
+huggingface_hub
+transformers
+pymupdf
+gradio
